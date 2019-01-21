@@ -3,7 +3,6 @@ C:\Users\Beast\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtime
 C:\Users\Beast\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
 C:\Users\Beast\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
 C:\Users\Beast\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
-C:\Users\Beast\source\repos\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
 C:\Users\Beast\source\repos\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
 C:\Users\Beast\source\repos\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
 C:\Users\Beast\source\repos\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
